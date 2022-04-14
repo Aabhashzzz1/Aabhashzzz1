@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Aabhashzzz1&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 <br />
 
-## I'm a Full-Stack Developer, Penetartion Tester and Freelancer!!
+## I'm a Full-Stack Developer, Penetration Tester and Freelancer!!
 
 - 🔭 I’m currently working on [**`weddingduniya`**](https://github.com/aamware/Weddingduniya)
 - 🌱 I’m currently learning everything 🤣
