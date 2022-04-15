@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Gain experience with work 💸 and achieve oscp cetificate
-- ⚡ Fun fact: I love to watch anime and ride bike 🚲
+- ⚡ Fun fact: I love to watch anime and ride bike 🏍️
 
 
 ### Connect with me:
