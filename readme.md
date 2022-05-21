@@ -24,7 +24,6 @@
 [<img align="left" alt="Aabhash | discord" width="32px" src="./images/discord.gif" />](https://discordapp.com/users/707131580782608386)
 
 <br>
-<br>
 
 ### Languages and Tools:
 &nbsp;
