@@ -23,7 +23,7 @@
 [<img align="left" alt="Aabhash | Telegram" width="32px" src="./images/telegram.gif" style="padding-right:10px;" />](https://t.me/adware_malware)
 [<img align="left" alt="Aabhash | discord" width="32px" src="./images/discord.gif" />](https://discordapp.com/users/707131580782608386)
 
-<br >
+<br>
 <br>
 
 ### Languages and Tools:
