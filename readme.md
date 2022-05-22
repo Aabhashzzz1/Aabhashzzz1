@@ -1,7 +1,7 @@
 ### Hi there, I'm Aabhash 👋
 <br />
 
-![](https://komarev.com/ghpvc/?username=Aabhashzzz1&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Aabhashzzz1&color=add8e6&style=for-the-badge&label=PROFILE+VIEWS)
 <br />
 
 ## I'm a Full-Stack Developer, Penetration Tester and Freelancer!!
@@ -53,5 +53,5 @@
 ### **Support Me**
 
 <br>
-<a href="https://www.buymeacoffee.com/aamware"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/aamware"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" width="200" /></a>
 
