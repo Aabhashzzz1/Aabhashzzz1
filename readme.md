@@ -1,7 +1,7 @@
 ### Hi there, I'm Aabhash 👋
 <br />
 
-![](https://komarev.com/ghpvc/?username=Aabhashzzz1&color=add8e6&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Aabhashzzz1&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 <br />
 
 ## I'm a Full-Stack Developer, Penetration Tester and Freelancer!!
