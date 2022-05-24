@@ -1,4 +1,4 @@
-### Hi there, I'm Aabhash 👋
+### Hi there, I'm Aabhash 👋
 <br />
 
 ![](https://komarev.com/ghpvc/?username=Aabhashzzz1&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
