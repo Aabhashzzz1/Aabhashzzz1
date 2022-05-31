@@ -19,7 +19,11 @@
 
 [<img align="left" alt="Aabhash | Twitter" width="32px" src="./images/twitter.gif" style="padding-right:10px;"/>](https://twitter.com/aabhash_malviya)
 &emsp;
+&emsp;
+&emsp;
 [<img align="left" alt="Aabhash | LinkedIn" width="32px" src="./images/linkedin.gif" style="padding-right:10px;" />](https://www.linkedin.com/in/aabhash-malviya/)
+&nbsp;
+&nbsp;
 &nbsp;
 [<img align="left" alt="Aabhash | Instagram" width="32px" src="./images/instagram.gif" style="padding-right:10px;" />](https://www.instagram.com/adware_malware/)
 &nbsp;
