@@ -2,6 +2,8 @@
 
 A self-taught geek developer and builder in full-stack web development, penetration tester and freelancer. I work with Javascript, with front-end and back-end tools proficiently in MERN stack, I have created various projects using these tools, and also contributed to open-source projects. I am highly motivated to deliver quality, interactive and user-friendly applications with optimal solutions. The learning curve is always high and devoted to technology to enhance skills.
 
+![](https://komarev.com/ghpvc/?username=Aabhashzzz1&color=82ADC4&label=PROFILE+VIEWS)
+
 # 💫About Me :
 
 - 🔭 I’m currently working on [**`weddingduniya`**](https://github.com/aamware/Weddingduniya).
