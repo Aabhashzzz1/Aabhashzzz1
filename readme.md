@@ -10,8 +10,8 @@ A self-taught geek developer and builder in full-stack web development, penetrat
 - 🔭 I’m currently working on [**`weddingduniya`**](https://github.com/aamware/Weddingduniya).
 - 🌱 I’m currently learning everything 🤣
 - 🌏 I like to contribute to open source and explore github.
-- 🤝 If you want any collaboration feel free to mail me at malviyaaabhash15@gmail.com.
-- 🥅 2022 Goals: Gain experience with work 💸 and achieve oscp cetificate.
+- 🤝 If you want any collaboration feel free to mail me at aabhashmalviya15@gmail.com.
+- 🥅 2025 Goals: Gain experience with work 💸.
 - ⚡ Fun fact: I love to watch anime and ride bike 🏍️.
 
 ## 🌐Socials
